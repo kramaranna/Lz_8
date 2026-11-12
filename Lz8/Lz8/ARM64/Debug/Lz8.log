@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Програмування тут\ЛЗ\Lz8\Lz8\MyForm.h(247,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lz8.vcxproj -> C:\Програмування тут\ЛЗ\Lz8\ARM64\Debug\Lz8.exe
